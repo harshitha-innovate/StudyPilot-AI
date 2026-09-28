@@ -1,0 +1,8 @@
+{
+  "name": "StudyPilot AI",
+  "description": "Agentic AI-powered personal study assistant for college students. Plan smarter, practice better, improve faster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
